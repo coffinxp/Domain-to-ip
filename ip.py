@@ -23,7 +23,7 @@ __________              .___
                                     
  
  Get IPs From Domains Faster..
- Made by Coffinxp  (Lulzsec india) 
+ Made by Coffinxp (Lostsec) 
  Youtube: https://m.youtube.com/@lostsecc
 """)
 
